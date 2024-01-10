@@ -21,7 +21,18 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 </ol>
 
 <h2>My Stack (languages & Tools) </h2>
-
+<ul>
+  <li>Visual Studio Code</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Php</li>
+  <li>Python - Django</li>
+  <li>SQL</li>
+  <li>API Rest</li>
+  <li>React</li>
+  <li>Firebase</li>
+  <li>Git/Github/Gitlab</li>
+</ul>
 
 
 <h2>Get in touch with me</h2>
