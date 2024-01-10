@@ -2,7 +2,8 @@
 
 <h1>HASSAN NDAM</h1>
 
-Here are some ideas to get you started:
+Hello, I'm Hassan, Software Developer & Technical project manager living in France ![image](https://github.com/HassanNdam/HassanNdam/assets/95439762/24fe892e-7345-451a-b9e2-5733058e3d84)
+. I enjoy learning new languages & Frameworks everyday to improve my skills.   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +18,8 @@ Here are some ideas to get you started:
 
 <h2>My Education</h2>
 
-<h3>My Stack </h3>
+<h3>My Stack (languages & Tools) </h3>
+
+<h4>My current projects</h4>
+
+<h5>Hobbies</h5>
