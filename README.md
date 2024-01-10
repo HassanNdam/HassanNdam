@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>My </h1>
 
-<h1>My Education</h1>
+<h2>My Education</h2>
+
+<h3>My Stack </h3>
