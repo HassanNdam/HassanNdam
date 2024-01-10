@@ -9,10 +9,6 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning React JS & Django
 - 👯 I’m looking to collaborate on New projects 
-  
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Reading, Football, Chat TV talk shows & Dancing
 -->
 
