@@ -34,10 +34,12 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
   <li>Firebase</li>
   <li>Git/Github/Gitlab</li>
   <li>Linux & Virtualisation </li>
+  <li>Agile Scrum</li>
+  <li>SEO </li>
 </ol>
 
 
 <h2>Get in touch with me</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/hassanndam/">Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/hassanndam/" target="_blank" style="text-decoration:none">Linkedin</a></li>
 <ul>
