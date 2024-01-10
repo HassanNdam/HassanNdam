@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-HASSAN NDAM
+<h1>HASSAN NDAM</h1>
 
 Here are some ideas to get you started:
 
