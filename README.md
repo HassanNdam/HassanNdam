@@ -4,7 +4,7 @@
 
 Hello, I'm Hassan, Software Developer & Technical project manager living in France
 . I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.  I love project management and challenging projects :)
-
+<br>
 
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning React JS & Django
