@@ -2,8 +2,8 @@
 
 <h1>HASSAN NDAM</h1>
 
-Hello, I'm Hassan, Software Developer & Technical project manager living in France ![image](https://github.com/HassanNdam/HassanNdam/assets/95439762/24fe892e-7345-451a-b9e2-5733058e3d84)
-. I enjoy learning new languages & Frameworks everyday to improve my skills.   
+Hello, I'm Hassan, Software Developer & Technical project manager living in France
+. I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,3 +23,5 @@ Hello, I'm Hassan, Software Developer & Technical project manager living in Fran
 <h4>My current projects</h4>
 
 <h5>Hobbies</h5>
+
+<h6>Get in touch with me</h6>
