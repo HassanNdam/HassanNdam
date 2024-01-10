@@ -37,8 +37,6 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
   <li>SEO</li>
 </ol>
 
-<h2>My recent activities</h2>
-
 
 <h2>Get in touch with me</h2>
 <ul>
