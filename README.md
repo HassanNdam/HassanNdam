@@ -21,18 +21,23 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 </ol>
 
 <h2>My Stack (languages & Tools) </h2>
-<ul>
+<ol>
   <li>Visual Studio Code</li>
-  <li>HTML</li>
+  <li>HTML & CSS</li>
   <li>CSS</li>
   <li>Php</li>
+  <li>Wordpress</li>
   <li>Python - Django</li>
   <li>SQL</li>
   <li>API Rest</li>
   <li>React</li>
   <li>Firebase</li>
   <li>Git/Github/Gitlab</li>
-</ul>
+  <li>Linux & Virtualisation </li>
+</ol>
 
 
 <h2>Get in touch with me</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/hassanndam/">Linkedin</a></li>
+<ul>
