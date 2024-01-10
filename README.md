@@ -6,7 +6,7 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 . I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.  I love project management and challenging projects :)<br>
 
 
-- 🔭 I’m currently working on many projects
+- 🔭 I’m currently working on many projects (LMS platform, Course planning APP & Websites Developlment)
 - 🌱 I’m currently learning React JS & Django
 - 👯 I’m looking to collaborate on New projects 
 - ⚡ Fun fact: Reading, Football, Chat TV talk shows & Dancing
@@ -24,8 +24,7 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 <ol>
   <li>Visual Studio Code</li>
   <li>HTML & CSS</li>
-  <li>CSS</li>
-  <li>Php</li>
+  <li>Php, Mysql</li>
   <li>Wordpress</li>
   <li>Python - Django</li>
   <li>SQL</li>
@@ -35,11 +34,11 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
   <li>Git/Github/Gitlab</li>
   <li>Linux & Virtualisation </li>
   <li>Agile Scrum</li>
-  <li>SEO </li>
+  <li>SEO</li>
 </ol>
 
 
 <h2>Get in touch with me</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/hassanndam/" target="_blank" style="text-decoration:none">Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/hassanndam/" target="_blank">Linkedin</a></li>
 <ul>
