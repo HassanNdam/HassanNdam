@@ -14,10 +14,14 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 
 
 <h2>My Education</h2>
+<ol>
+  <li>Software engineering diploma, African institute of Computer Science</li>
+  <li>Master Digital project management, Digital School of Paris</li>
+  <li>Master CTO & TECH LEAD, HETIC PARIS</li>
+</ol>
+
+<h2>My Stack (languages & Tools) </h2>
 
 
-<h3>My Stack (languages & Tools) </h3>
 
-
-
-<h6>Get in touch with me</h6>
+<h2>Get in touch with me</h2>
