@@ -2,7 +2,7 @@
 
 <h1>HASSAN NDAM</h1>
 
-Hello, I'm Hassan, Software Developer & Technical project manager living in France
+Hello, I'm Hassan, <strong>Software Developer & Technical project manager</strong> living in France
 . I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.  I love project management and challenging projects :)<br>
 
 
