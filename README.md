@@ -13,19 +13,15 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Reading, Football, Chat TV talk shows & Dancing
 -->
 
 
 <h2>My Education</h2>
 
+
 <h3>My Stack (languages & Tools) </h3>
 
-<h4>My current projects</h4>
 
-<h5>Hobbies</h5>
-⚡ Reading, 
-⚡ Football, 
-⚡ Chat TV talk shows
 
 <h6>Get in touch with me</h6>
