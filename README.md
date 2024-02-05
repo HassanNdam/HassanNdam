@@ -24,7 +24,7 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 <ol>
   <li>Visual Studio Code</li>
   <li>HTML & CSS</li>
-  <li>Php, Mysql</li>
+  <li>Php, Mysql, Postgress , Azure data studio</li>
   <li>Wordpress</li>
   <li>Python - Django</li>
   <li>SQL</li>
