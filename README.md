@@ -3,7 +3,7 @@
 <h1>HASSAN NDAM</h1>
 
 Hello, I'm Hassan, <strong>Software Developer & Technical project manager</strong> living in France
-. I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.  I love project management and challenging projects :)<br>
+. I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.  I love IT project management, topics related to microservices and challenging projects :)<br>
 
 
 - 🔭 I’m currently working on many projects (LMS platform, Course planning APP & Websites Developlment)
@@ -25,11 +25,11 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
   <li>Visual Studio Code</li>
   <li>HTML & CSS</li>
   <li>Php, Mysql, Postgres , Azure data studio</li>
-  <li>Wordpress</li>
+  <li>Wordpress </li>
   <li>Python - Django</li>
   <li>SQL</li>
   <li>API Rest</li>
-  <li>React</li>
+  <li>Nodejs, React</li>
   <li>Firebase</li>
   <li>Git/Github/Gitlab</li>
   <li>Linux & Virtualisation </li>
