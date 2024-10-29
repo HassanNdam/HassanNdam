@@ -23,7 +23,7 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 <h2>My Stack (languages & Tools) </h2>
 <ol>
   <li>Visual Studio Code</li>
-  <li>HTML & CSS</li>
+  <li>HTML & CSS, Bootstrap & Tailwindcss</li>
   <li>Php, Mysql, Postgres , Azure data studio</li>
   <li>Postman</li>
   <li>Wordpress </li>
@@ -31,7 +31,7 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
   <li>SQL</li>
   <li>API Rest</li>
   <li>Nodejs, React</li>
-  <li>Firebase</li>
+  <li>Firebase & Scaleway</li>
   <li>Git/Github/Gitlab</li>
   <li>Linux & Virtualisation </li>
   <li>Agile Scrum</li>
