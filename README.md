@@ -7,8 +7,9 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 
 
 - 🔭 I’m currently working on many projects (LMS platform, Course planning APP & Websites Developlment)
-- 🌱 I’m currently learning React JS & Django
-- 👯 I’m looking to collaborate on New projects 
+- 🌱 I’m currently learning React & Laravel
+- 👯 I’m looking to collaborate on New projects
+- 👯 I’m currently working on a side-project Jobrainer
 - ⚡ Fun fact: Reading, Football, Chat TV talk shows & Dancing
 -->
 
@@ -26,8 +27,8 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
   <li>HTML & CSS, Bootstrap & Tailwindcss</li>
   <li>Php, Mysql, Postgres , Azure data studio</li>
   <li>Postman</li>
-  <li>Wordpress </li>
-  <li>Python - Django</li>
+  <li>Wordpress, WP-CLI, Sage, Bedrock, Elementor, SSH </li>
+  <li>Python - Django, PHP - Laravel </li>
   <li>SQL</li>
   <li>API Rest</li>
   <li>Nodejs, React</li>
