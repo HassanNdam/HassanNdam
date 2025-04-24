@@ -6,7 +6,7 @@ Hello, I'm Hassan, <strong>Software Developer & Technical project manager</stron
 . I enjoy learning new Languages, Frameworks, Techno.. everyday to improve my skills.  I love IT project management, topics related to microservices and challenging projects :)<br>
 
 
-- 🔭 I’m currently working on many projects (LMS platform, Course planning APP & Websites Developlment)
+- 🔭 I’m currently working on many projects (Jobrainer & CLOUD learning)
 - 🌱 I’m currently learning React & Laravel
 - 👯 I’m looking to collaborate on New projects
 - 👯 I’m currently working on a side-project Jobrainer
